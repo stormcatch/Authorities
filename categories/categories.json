@@ -1,0 +1,209 @@
+{
+  "categories": [
+    {
+      "name": "spreading",
+      "description": "Tokens from this address do not have any authorization yet",
+      "icon": null
+    },
+    {
+      "name": "authorization",
+      "description": "Authorization for the receivers connected category",
+      "icon": null
+    },
+    {
+      "name": "navigation",
+      "description": "Authorization for autonomous navigation in urban environments",
+      "icon": null
+    },
+    {
+      "name": "delivery",
+      "description": "Authorization for package and goods delivery",
+      "icon": null
+    },
+    {
+      "name": "security",
+      "description": "Authorization for performing surveillance and security tasks",
+      "icon": null
+    },
+    {
+      "name": "healthcare",
+      "description": "Authorization for providing healthcare support or assistance",
+      "icon": null
+    },
+    {
+      "name": "education",
+      "description": "Authorization for use in educational settings or learning platforms",
+      "icon": null
+    },
+    {
+      "name": "agriculture",
+      "description": "Authorization for performing agricultural tasks",
+      "icon": null
+    },
+    {
+      "name": "construction",
+      "description": "Authorization for aiding or automating construction tasks",
+      "icon": null
+    },
+    {
+      "name": "manufacturing",
+      "description": "Authorization for industrial manufacturing and assembly line tasks",
+      "icon": null
+    },
+    {
+      "name": "entertainment",
+      "description": "Authorization for use in entertainment or creative tasks",
+      "icon": null
+    },
+    {
+      "name": "household",
+      "description": "Authorization for domestic assistance and household tasks",
+      "icon": null
+    },
+    {
+      "name": "transportation",
+      "description": "Authorization for operating transport systems or vehicles",
+      "icon": null
+    },
+    {
+      "name": "warehouse",
+      "description": "Authorization for inventory management and warehouse operations",
+      "icon": null
+    },
+    {
+      "name": "hospitality",
+      "description": "Authorization for use in hospitality and service roles",
+      "icon": null
+    },
+    {
+      "name": "research",
+      "description": "Authorization for use in scientific research and experimentation",
+      "icon": null
+    },
+    {
+      "name": "exploration",
+      "description": "Authorization for space or underwater exploration tasks",
+      "icon": null
+    },
+    {
+      "name": "emergency_response",
+      "description": "Authorization for disaster response and emergency services",
+      "icon": null
+    },
+    {
+      "name": "maintenance",
+      "description": "Authorization for performing maintenance and repair tasks",
+      "icon": null
+    },
+    {
+      "name": "mining",
+      "description": "Authorization for mining and resource extraction tasks",
+      "icon": null
+    },
+    {
+      "name": "cleaning",
+      "description": "Authorization for cleaning and sanitation tasks",
+      "icon": null
+    },
+    {
+      "name": "drone_operations",
+      "description": "Authorization for drone-based activities",
+      "icon": null
+    },
+    {
+      "name": "retail",
+      "description": "Authorization for operations in retail environments",
+      "icon": null
+    },
+    {
+      "name": "food_service",
+      "description": "Authorization for tasks related to food preparation and service",
+      "icon": null
+    },
+    {
+      "name": "personal_care",
+      "description": "Authorization for providing personal care and assistance",
+      "icon": null
+    },
+    {
+      "name": "sports",
+      "description": "Authorization for assisting in sports training or events",
+      "icon": null
+    },
+    {
+      "name": "recycling",
+      "description": "Authorization for waste management and recycling tasks",
+      "icon": null
+    },
+    {
+      "name": "inspection",
+      "description": "Authorization for performing structural or safety inspections",
+      "icon": null
+    },
+    {
+      "name": "energy",
+      "description": "Authorization for tasks in energy production and management",
+      "icon": null
+    },
+    {
+      "name": "telepresence",
+      "description": "Authorization for remote telepresence operations",
+      "icon": null
+    },
+    {
+      "name": "law_enforcement",
+      "description": "Authorization for aiding in law enforcement tasks",
+      "icon": null
+    },
+    {
+      "name": "surveying",
+      "description": "Authorization for land or resource surveying tasks",
+      "icon": null
+    },
+    {
+      "name": "entertainment_production",
+      "description": "Authorization for aiding in media or entertainment production",
+      "icon": null
+    },
+    {
+      "name": "pet_care",
+      "description": "Authorization for assisting in animal or pet care",
+      "icon": null
+    },
+    {
+      "name": "education_assistance",
+      "description": "Authorization for assisting educators and learners",
+      "icon": null
+    },
+    {
+      "name": "waste_disposal",
+      "description": "Authorization for handling waste disposal operations",
+      "icon": null
+    },
+    {
+      "name": "geotechnical_exploration",
+      "description": "Authorization for geological exploration tasks",
+      "icon": null
+    },
+    {
+      "name": "surgical_assistance",
+      "description": "Authorization for assisting in surgical procedures",
+      "icon": null
+    },
+    {
+      "name": "veterinary_assistance",
+      "description": "Authorization for assisting in veterinary tasks",
+      "icon": null
+    },
+    {
+      "name": "water_purification",
+      "description": "Authorization for operating water purification systems",
+      "icon": null
+    },
+    {
+      "name": "communications",
+      "description": "Authorization for enhancing communication networks",
+      "icon": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "wallets": [
+    {
+      "address": "0x29aDCbc300E22f320e75c3542003e685A38e9366",
+      "name": "Stormcatch Origin",
+      "category": "spreading",
+      "contact": {
+        "email": "scatch@stormcatch.com"
+      }
+    }
+  ]
+}
